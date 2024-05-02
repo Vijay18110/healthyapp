@@ -1,0 +1,15 @@
+.c-container {
+    margin: 100px auto;
+    height: auto;
+    border: 1px solid black;
+}
+
+button {
+    float: right;
+}
+
+
+
+.h1 {
+    text-align: center;
+}
